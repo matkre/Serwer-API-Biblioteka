@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBooksServer", "WebApiBooksServer\WebApiBooksServer.csproj", "{0B3C1577-63B5-4A6B-A0B6-1F433DCE6ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksDataAccess", "BooksDataAccess\BooksDataAccess.csproj", "{ECC38C20-4BEB-4A02-8807-BA3107E59292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3C1577-63B5-4A6B-A0B6-1F433DCE6ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3C1577-63B5-4A6B-A0B6-1F433DCE6ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3C1577-63B5-4A6B-A0B6-1F433DCE6ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3C1577-63B5-4A6B-A0B6-1F433DCE6ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC38C20-4BEB-4A02-8807-BA3107E59292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC38C20-4BEB-4A02-8807-BA3107E59292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC38C20-4BEB-4A02-8807-BA3107E59292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC38C20-4BEB-4A02-8807-BA3107E59292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {075E765A-EA19-4384-BB76-6C07B83641DB}
+	EndGlobalSection
+EndGlobal

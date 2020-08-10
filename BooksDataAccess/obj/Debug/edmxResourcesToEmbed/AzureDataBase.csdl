@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AzureDBMode" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BooksTable">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="TITLE" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="VERSION" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="AUTHOR" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="GENRE" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="YEAR" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="AzureDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BooksTable" EntityType="Self.BooksTable" />
+  </EntityContainer>
+</Schema>

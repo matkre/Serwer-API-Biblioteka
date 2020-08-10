@@ -1,0 +1,12 @@
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\bin\Release\BooksDataAccess.dll.config
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\bin\Release\BooksDataAccess.dll
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\bin\Release\BooksDataAccess.pdb
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\bin\Release\EntityFramework.dll
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\bin\Release\EntityFramework.xml
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\obj\Release\BooksDataAccess.csprojAssemblyReference.cache
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\obj\Release\BooksDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\obj\Release\BooksDataAccess.csproj.CopyComplete
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\obj\Release\BooksDataAccess.dll
+C:\Users\krenca.m\Documents\Projekty\WebApiBooksServer\BooksDataAccess\obj\Release\BooksDataAccess.pdb

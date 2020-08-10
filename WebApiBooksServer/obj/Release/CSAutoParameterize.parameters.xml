@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AzureDBEntities-Web.config Connection String" description="AzureDBEntities Parametry połączenia używane w pliku web.config przez aplikację w celu uzyskiwania dostępu do bazy danych." defaultValue="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=serverdbbook.database.windows.net;initial catalog=BooksDB;persist security info=True;user id=adminDB;password=bookDB12!;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\krenca\.m\\Documents\\Projekty\\WebApiBooksServer\\WebApiBooksServer\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AzureDBEntities']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebApiBooksServer20181203101601" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\krenca\.m\\Documents\\Projekty\\WebApiBooksServer\\WebApiBooksServer\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\krenca\.m\\Documents\\Projekty\\WebApiBooksServer\\WebApiBooksServer\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="BooksDBEntities-Web.config Connection String" description="" value="Data Source=01W10KRENCAM;Persist Security Info=True;User ID=admin;Password=adminDB12!" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\krenca\.m\\Documents\\Projekty\\WebApiBooksServer\\WebApiBooksServer\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BooksDBEntities']/@connectionString" />
+  </parameter>
+</parameters>
